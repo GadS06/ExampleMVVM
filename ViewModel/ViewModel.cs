@@ -121,8 +121,8 @@ namespace ViewModel
 		{
 			WindowData.PointX = 0.5f;
 			WindowData.PointY = 0.5f;
-			WindowData.NumOfStepsTime = 1000;
-			WindowData.StepLengthTime = 0.001f;
+			WindowData.NumOfStepsTime = 10;
+			WindowData.StepLengthTime = 0.1f;
 			WindowData.NumOfStepsX = 1000;
 			WindowData.StepLengthX = 0.001f;
 			WindowData.NumOfStepsY = 1000;
