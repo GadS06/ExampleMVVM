@@ -47,7 +47,7 @@
     <Compile Include="SimpleCountingMethod.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ExprEvalPolygon\ExprEvalPolygon\LoreSoft.MathExpressions\LoreSoft.MathExpressions.csproj">
+    <ProjectReference Include="..\LoreSoft.MathExpressions\LoreSoft.MathExpressions.csproj">
       <Project>{b6813448-fce2-429c-81b5-9722fea839b8}</Project>
       <Name>LoreSoft.MathExpressions</Name>
     </ProjectReference>
